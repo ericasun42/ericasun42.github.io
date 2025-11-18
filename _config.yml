@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Erica Sundermeyer
 
 # Your name to show in the footer
 author: Erica Sundermeyer
@@ -21,10 +21,11 @@ author: Erica Sundermeyer
 
 navbar-links:
   About Me: "aboutme"
+  Outreach: "outreach"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -53,7 +54,7 @@ social-network-links:
   email: "ericasun42@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: daattali
+  github: ericasun42
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: "@daattali"
@@ -61,15 +62,10 @@ social-network-links:
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
-#  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+#  telephone: +1(774) 994 1741
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
