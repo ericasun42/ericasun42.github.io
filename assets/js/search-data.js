@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Courses for which I have worked as an undergraduate TA at University of Rochester.",
+          description: "Courses for which I have worked as an undergraduate TA at University of Rochester, predominantly in the Physics and Astronomy department.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
