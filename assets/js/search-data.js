@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          title: "teaching",
+          description: "Courses for which I have worked as an undergraduate TA at University of Rochester.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
