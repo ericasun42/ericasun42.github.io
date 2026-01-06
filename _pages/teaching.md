@@ -31,7 +31,7 @@ Taught by [Dr. Sheth Nyibule](https://www.pas.rochester.edu/people/faculty/nyibu
 <br>TA duties: Weekly office hours, weekly workshops, homework and exam grading. Developing and maintaining informal mentoring connections.
 
 ### Spring 2024
-#### PHYS 113: General Physics I (part-time)
+#### PHYS 113: General Physics I
 Taught by [Dr. Sheth Nyibule](https://www.pas.rochester.edu/people/faculty/nyibule-sheth/index.html).
 <br>Class size: 106 total, 7 in my workshop section
 <br>Level: Introductory undergraduate (non-physics majors)
