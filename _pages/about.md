@@ -30,7 +30,10 @@ Hi! I'm a fourth year Physics and Astronomy student at University of Rochester. 
 
 I'm currently working on my senior thesis with [Dr. Dominique Segura-Cox](https://www.seguracox.com/home) analyzing the kinematics of the asymmetric infalling streamer in young (Class 0) protostellar system Per-emb-2.
 
-I'm originally from Cape Cod, MA, I'm an avid thrifter, and I have a cat named Princess Leia. 
+I'm originally from Cape Cod, MA, I'm an avid thrifter, and I enjoy reading mystery novels and fashion history. 
+
+
+This site is still under construction, so check back later for more complete info!
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can Put a picture in: The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
