@@ -26,9 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi! I'm a fourth year Physics and Astronomy student at University of Rochester. I'm also chapter founder and lead organizer of the [Astronomy on Tap ROchester](https://astronomyontap.org/locations/rochester-ny/) satellite and member of the [Astronaut Scholar](https://www.astronautscholarship.org/) class of 2025. 
+Hi! I'm a fourth year Physics and Astronomy student at University of Rochester. I'm also chapter founder and lead organizer of the [Astronomy on Tap Rochester](https://astronomyontap.org/locations/rochester-ny/) satellite and member of the [Astronaut Scholar](https://www.astronautscholarship.org/) class of 2025. 
 
-I'm currently working on my senior thesis with [Dr. Dominique Segura-Cox](https://www.seguracox.com/home) at University of Rochester, analyzing the kinematics of the asymmetric infalling streamer in young (Class 0) protostellar system Per-emb-2.
+I'm currently working on my senior thesis with [Dr. Dominique Segura-Cox](https://www.seguracox.com/home) analyzing the kinematics of the asymmetric infalling streamer in young (Class 0) protostellar system Per-emb-2.
 
 I'm originally from Cape Cod, MA, I'm an avid thrifter, and I have a cat named Princess Leia. 
 
