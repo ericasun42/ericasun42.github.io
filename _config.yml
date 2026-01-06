@@ -207,6 +207,7 @@ exclude:
   #disable json resume and just use embedded pdf
   - assets/json/resume.json
   - assets/json/table_data.json
+  - _data/cv.yml
   
   
 keep_files:
