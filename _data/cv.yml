@@ -16,14 +16,15 @@
     - title: Undergraduate
       institution: University of Rochester, Rochester, NY, USA
       year: 2022-2026
-      GPA: 3.92
       description:
         - Major in Physics and Astronomy
         - Minors in Spanish and Mathematics
-        - title: Description 3.
+        - GPA: 3.92
+        - title: Relevant Coursework:
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Elementary Astronomy, Elementary Astrophysics, Observational Astronomy, Gravitation and General Relativity, Astrophysical Fluid Dynamics
+            - Classical Mechanics, Advanced Electricity and Magnetism I, Advanced Electricity and Magnetism II, Quantum Mechanics of Physical Systems, Quantum Theory, Thermodynamics and Statistical Mechanics, Nuclear and Particle Physics 
+            - Linear Algebra, Applied Boundary Value Problems, Complex Analysis
 
 #- title: Experience
 #  type: time_table
