@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>(774) 994 1741</p>
-    <p>500 Joseph C Wilson Blvd</p>
-    <p>Rochester, NY 14627</p>
+    <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
