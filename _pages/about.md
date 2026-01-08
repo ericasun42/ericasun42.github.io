@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Physics and Astronomy student, [University of Rochester](https://www.pas.rochester.edu/).
+subtitle: Physics and Astronomy student, University of Rochester.
 
 profile:
   align: right
