@@ -23,13 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Click the PDF icon for full CV.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv_test/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses for which I have worked as an undergraduate TA at University of Rochester, predominantly in the Physics and Astronomy department.",
