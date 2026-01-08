@@ -21,13 +21,6 @@ ninja.data = [{
           description: "Click the PDF icon for full CV.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "Click the PDF icon for full CV.",
-          section: "Navigation",
-          handler: () => {
             window.location.href = "/cv_test/";
           },
         },{id: "nav-teaching",
