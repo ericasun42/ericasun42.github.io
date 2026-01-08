@@ -1,32 +1,29 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Name
       value: Erica Sundermeyer
-    - name: email address
+    - name: Email 
       value: esunderm@u.rochester.edu
+    - name: Phone
+      value: (774) 994-1741
     - name: Languages
       value: English, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Undergraduate
+      institution: University of Rochester, Rochester, NY, USA
+      year: 2022-2026
+      GPA: 3.92
       description:
-        - Description 1.
-        - Description 2.
+        - Major in Physics and Astronomy
+        - Minors in Spanish and Mathematics
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
 
 - title: Experience
   type: time_table
