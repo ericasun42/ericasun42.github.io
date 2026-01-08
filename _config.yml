@@ -204,6 +204,7 @@ exclude:
   - _pages/publications.md
   - _pages/news.md
   - _pages/dropdown.md
+  - _pages/cv.md
  
   
 keep_files:
