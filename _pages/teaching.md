@@ -9,7 +9,6 @@ calendar: false
 ---
 
 
-#Calendar stuff
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+
 
 {% include courses.liquid %}
