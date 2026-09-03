@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: resources for undergrads
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A collection of helpful docs for undergrads.
 nav: true
 nav_order: 3
-display_categories: [Rochester, Bozeman]
+display_categories: [Research, Grad School]
 horizontal: false
 ---
 
