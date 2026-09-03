@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Astronomy on Tap
-description: with background image
-img: assets/img/12.jpg
+description: Astronomy talks in bars!
+img: assets/img/AoT_Rochester_crop_transparent.png
 importance: 1
 category: Rochester
 related_publications: false
