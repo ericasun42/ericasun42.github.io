@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Astronomy on Tap
-description: Astronomy talks in bars!
-img: assets/img/AoT_Rochester_crop_transparent.png
+title: Getting Started in Research
+description: How to find a topic and a group.
+img: assets/img/12.jpg
 importance: 1
-category: Rochester
+category: Research
 related_publications: false
 ---
 
