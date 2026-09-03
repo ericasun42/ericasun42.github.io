@@ -244,7 +244,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -259,7 +258,14 @@ exclude:
   - _pages/publications.md
   - _pages/news.md
   - _pages/people.md
-
+  #hide these projects
+  - _projects/2_project.md
+  - _projects/3_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
 keep_files:
   - CNAME
   - .nojekyll
