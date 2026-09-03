@@ -257,7 +257,7 @@ exclude:
   - _pages/repositories.md
   - _pages/publications.md
   - _pages/news.md
-  - _pages/people.md
+  - _pages/profiles.md
   #hide these projects
   - _projects/2_project.md
   - _projects/3_project.md
