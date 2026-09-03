@@ -6,13 +6,13 @@ subtitle: Physics PhD student.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: EricaSundermeyer_2026.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
@@ -24,9 +24,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi! I'm a first year Physics PhD student at Montana State University. I got my Bachelor of Science in Physics and Astronomy from University of Rochester Rochester, New York. Back in Rochester, I was also chapter founder and lead organizer of the [Astronomy on Tap Rochester](https://astronomyontap.org/locations/rochester-ny/) satellite (an outreach passion project). I'm also a member of the [Astronaut Scholar](https://www.astronautscholarship.org/) class of 2025. 
+Hi I'm Erica! I'm a first year Physics PhD student at Montana State University. I got my Bachelor of Science in Physics and Astronomy from University of Rochester Rochester, New York. Back in Rochester, I was also chapter founder and lead organizer of the [Astronomy on Tap Rochester](https://astronomyontap.org/locations/rochester-ny/) satellite (an outreach passion project). I'm also a member of the [Astronaut Scholar](https://www.astronautscholarship.org/) class of 2025. 
 
-I'm currently working in the Montana State Extreme Gravity Group under Professor Neil Cornish. My undergraduate research was mainly in observational radio astronomy with [Dr. Dominique Segura-Cox](https://www.seguracox.com/home), analyzing kinematics of infalling streamers around young (Class 0) protostars.
+I'm currently working in the MSU Extreme Gravity Group under Professor Neil Cornish. My undergraduate research was mainly in observational radio astronomy with [Dr. Dominique Segura-Cox](https://www.seguracox.com/home), analyzing kinematics of infalling streamers around young (Class 0) protostars.
 
 I'm originally from Cape Cod, MA, I'm an avid thrifter, and I enjoy mystery novels and fashion history. 
 
