@@ -258,6 +258,8 @@ exclude:
   - _pages/publications.md
   - _pages/news.md
   - _pages/profiles.md
+  - _pages/teaching.md
+  - _pages/dropdown.md
   #hide these projects
   - _projects/2_project.md
   - _projects/3_project.md
