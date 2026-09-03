@@ -1,8 +1,8 @@
 ---
 layout: page
-title: resources for undergrads
+title: for undergrads
 permalink: /projects/
-description: A collection of helpful docs for undergrads.
+description: A collection of helpful docs.
 nav: true
 nav_order: 3
 display_categories: [Research, Grad School]
