@@ -1,24 +1,30 @@
 ---
 layout: page
-title: tbd!
-description: More cool stuff coming soon
-img:
+title: Applying to Grad School
+description: How to make your list, the Physics GRE, etc
+img: 
 importance: 3
-category: Bozeman
+category: Grad School
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This page isn't finished! Read what I've got so far or check back later. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Making your list
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+
+## The GRE
+### Should I take the General GRE?
+No.
+
+### Should I take the Physics GRE?
+It depends. Here are some things to consider:
+- Do your schools require it?
+- Do your schools secretly prefer it?
+- Will it help your application? To what extent? (How's your GPA?)
+- Do you have time to study?
+- Think about return on investment... Is it actually worth your time to study?
+
+If you do decide to take the Physics GRE, you should practice with "Conquering the Physics GRE" by Adam Anderson and Yoni Kahn. Pay less attention to doing timed practice tests from this book, since the actual tests have changed since it was first written, but do study the different types of questions and strategies for doing them efficiently. This book also contains excellent tips on what topics to study, tricks to look for, and a big list of formulas that will be helpful to memorize. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
