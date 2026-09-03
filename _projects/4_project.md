@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: tbd!
+description: 
 img:
 importance: 3
-category: fun
+category: Bozeman
 ---
 
 Every project has a beautiful feature showcase page.
