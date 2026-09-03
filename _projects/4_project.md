@@ -1,7 +1,7 @@
 ---
 layout: page
 title: tbd!
-description: 
+description: More cool stuff coming soon
 img:
 importance: 3
 category: Bozeman
