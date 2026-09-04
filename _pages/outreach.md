@@ -1,9 +1,8 @@
 ---
-layout: book-shelf
+layout: page
 title: outreach
 permalink: /outreach/
 nav: true
-collection: outreach
 ---
 
 some words about outreach
