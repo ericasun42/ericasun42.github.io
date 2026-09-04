@@ -261,8 +261,7 @@ exclude:
   - _pages/teaching.md
   - _pages/dropdown.md
   #hide these projects
-  - _projects/2_project.md
-  - _projects/3_project.md
+  - _projects/3_project.md #this is the one with the external link
   - _projects/6_project.md
   - _projects/7_project.md
   - _projects/8_project.md
