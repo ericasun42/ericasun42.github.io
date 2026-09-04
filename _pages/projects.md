@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of helpful docs.
 nav: true
 nav_order: 3
-display_categories: [Research, Grad School]
+display_categories: [Research, Grad School, Professional Development]
 horizontal: false
 ---
 
